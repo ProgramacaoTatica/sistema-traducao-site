@@ -1,0 +1,22 @@
+{
+    "pt": {
+        "greeting": "Olá, Mundo!",
+        "description": "Este é um exemplo de tradução usando JSON.",
+        "description2": "Este é um teste",
+        "footer": "Todos os direitos reservados.",
+        "navigation": "SOBRE-NOS",
+        "navigation2": "INICIO",
+        "navigation3": "CONTATO",
+        "contato": "Entre em contato!"
+    },
+    "en": {
+        "greeting": "Hello, World!",
+        "description": "This is a translation example using JSON.",
+        "description2": "This is a test",
+        "footer": "All rights reserved.",
+        "navigation": "ABOUT-US",
+        "navigation2": "HOME",
+        "navigation3": "CONTACT",
+        "contato": "Call us!"
+    }
+}
